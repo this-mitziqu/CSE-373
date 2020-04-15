@@ -18,5 +18,5 @@ finds the vertex nearest to where a user double-clicks on the map.
 uses `BinaryRangeSearch` implementation to return autocomplete results.
 - `public List<Location> getLocations(String locationName)`:
 returns a list of locations that match the given `locationName`.
-### Routing
+### Routing:
 
